@@ -1,0 +1,12 @@
+{
+  "name": "csv-reader",
+  "version": "1.0.0",
+  "description": "A CSV reader that formats data in a table.",
+  "main": "hw1.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.10.0"
+  }
+}
