@@ -1,12 +1,8 @@
 {
-  "name": "csv-reader",
-  "version": "1.0.0",
-  "description": "A CSV reader that formats data in a table.",
-  "main": "hw1.js",
-  "scripts": {
-    "test": "jasmine"
+  "dependencies": {
+    "csv-parser": "^3.0.0"
   },
   "devDependencies": {
-    "jasmine": "^3.10.0"
+    "jasmine": "^5.3.0"
   }
 }
